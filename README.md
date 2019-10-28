@@ -1,0 +1,1 @@
+This is the repo for the project Rock Paper Scissors from The Odin Project
